@@ -1,0 +1,39 @@
+.table td{
+    width: 260px;
+    height: auto;
+    padding-top: 50px;
+}
+
+.table img{
+    width: 150px;
+    height: 250px;
+    margin-left: 50px;
+}
+
+h4{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+input{
+    text-align: center;
+    margin-left: 35px;
+}
+
+.table button{
+    margin-left: 85px;
+    border-style: ridge;
+    border-radius: 10%;
+    background-color: honeydew;
+}
+
+header{
+    background-color: honeydew;
+}
+
+.cool{
+    width: 1250px;
+    text-align: center;
+}
